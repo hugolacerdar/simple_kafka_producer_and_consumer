@@ -1,6 +1,6 @@
 # SimpleKafkaProducerAndConsumer
 
-**TODO: Add description**
+A simple mix project using Kafka both to consume and to produce messages.
 
 ## Installation
 
